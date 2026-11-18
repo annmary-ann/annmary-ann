@@ -1,6 +1,6 @@
 ## Hi, I'm Annmary
 
-**Engineer and experimentalist.** I build software, experiment with ideas and findings, and collect new words along the way.
+**Engineer and experimentalist.** I build software, experiment with ideas and findings, and loves to learn new stuff.
 
 I'm a software engineer working across **backend systems, data engineering and applied AI**. I design and build the systems that move data and make sense of it: event-driven pipelines, high-throughput ingestion services in Go and Python, and the observability around them, so teams can see what's happening and trust the numbers.
 
