@@ -20,12 +20,6 @@ The problems I enjoy most sit where infrastructure, data and product meet. I lik
 - **PCOS Risk Prediction:** compares supervised ML models for predicting PCOS from health data. [Write-up](https://annmaryvinod.vercel.app/blog/building-pcos-risk-prediction)
 - **Skippy:** a minimalist, local-first weekly to-do app with no backend. [Live](https://skippy-sigma.vercel.app/)
 
-### Highlights
-- Databricks Certified Data Engineer Associate
-- B.Tech CSE, Mar Athanasius College of Engineering. Batch topper, CGPA 9.64/10
-- Best Innovation Award, IEEE .hack()'24
-- Amazon Future Engineer Scholar
-- Campus Lead, Google Developer Student Clubs MACE (2023–24); co-founder of [Girlathon](https://www.girlathon.in/), a three-week hackathon for women
 
 Outside of work, I read about physics and history, with the occasional detour into neuroscience.
 
